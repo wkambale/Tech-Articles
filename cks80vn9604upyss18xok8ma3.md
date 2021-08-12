@@ -2,9 +2,6 @@
 
 During the IndabaX Deep Learning Conference in March 2019, held at Springs Hotel — Bugolobi, we discussed at length the racial bias in healthcare algorithms that have been deployed and tested in most developed countries where Artificial Intelligence (AI) is being heavily used in the day-to-day life.
 
-
-![1_gT89sWutA_dfxDbiK-OiVg.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1628718108476/DOgoQD8VM.jpeg)
-
 “Dissecting racial bias in an algorithm used to manage the health of populations.”, research by Ziad Obermeyer, et al, published in Science on October 24, concluded that the algorithm is widely used to help manage care for about 200 million people in the United States hospitals was less likely to refer black people than white people who were equally sick to programs that aim to improve care for patients with complex medical needs.
 
 My argument, as a developer and someone that’s interested in Artificial Intelligence, is that these algorithms take on the natural human bias from the developers, and also during the time of training these models — because this is when most algorithms pick their parameters.
