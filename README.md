@@ -15,4 +15,4 @@ There's a balance to also enable international readers to follow through. So, do
 - Mobile Dev (Native - Andriod, Cross-platform)
 
 # License
-Creative Commons
+[Apache License 2.0](https://github.com/WesleyKambale/Tech-Articles/blob/main/LICENSE) 
