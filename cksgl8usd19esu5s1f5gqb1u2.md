@@ -1,4 +1,13 @@
-## The Journey as a GDSC Lead
+---
+title: "The Journey as a GDSC Lead"
+seoTitle: "The Journey as a GDSC Lead"
+datePublished: Tue Aug 17 2021 21:38:51 GMT+0000 (Coordinated Universal Time)
+cuid: cksgl8usd19esu5s1f5gqb1u2
+slug: the-journey-as-a-gdsc-lead
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629234812790/-zTxJ5Dtj.jpeg
+tags: hackathon, community, developer
+
+---
 
 Today, Wednesday, August 18, 2021, I graduate from the 2020/21 sub-Sahara Africa cohort of Google Developer Student Club Leads. It also marks exactly one year since I received an email congratulating me on being selected as the first Google Developer Student Club Lead of  [Mbarara University of Science and Technology](https://gdsc.community.dev/mbarara-university-of-science-and-technology/), a university-based community of students interested in Google developer technologies that I'd go on to build.
 
