@@ -1,4 +1,13 @@
-## Let's Get Started with Flask, Shall We?
+---
+title: "Let's Get Started with Flask, Shall We?"
+seoTitle: "Let's Get Started with Flask, Shall We?"
+datePublished: Thu Aug 12 2021 21:05:06 GMT+0000 (Coordinated Universal Time)
+cuid: cks9eu73805g0wvs1cce1gyq7
+slug: lets-get-started-with-flask
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1628796293839/95ukma8xM.jpeg
+tags: frameworks, python3, flask
+
+---
 
 *No, not a Vacuum or Thermos flask, okay?*
 
