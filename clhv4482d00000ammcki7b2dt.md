@@ -267,3 +267,5 @@ We have covered the basics of data visualization using Matplotlib and Seaborn. W
 ## Resources
 
 [Google Colab Notebook](https://colab.research.google.com/drive/1sn6sL3O8ocor8axNIWdGALnKyd2sIeCS?usp=sharing)
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png align="left")](https://www.buymeacoffee.com/kambale)
