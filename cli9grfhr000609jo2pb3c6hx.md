@@ -68,7 +68,7 @@ data = [2.5, 3.7, 1.9, 4.2, 5.1, 2.8]
 bins = np.linspace(1, 6, 4) 
 
 # Assign each value to a bin
-binned_features = np.digitize(data, bins)  
+binned_features = np.digitize(data, bins)
 ```
 
 The `np.digitize` function assigns each value to a bin based on its position in the specified bins.
@@ -104,7 +104,7 @@ data = [[2, 3], [1, 4], [5, 2]]
 poly = PolynomialFeatures(degree=2) 
 
 # Generate polynomial features
-polynomial_features = poly.fit_transform(data)  
+polynomial_features = poly.fit_transform(data)
 ```
 
 The `PolynomialFeatures` class generates polynomial features up to the specified degree, allowing the model to capture nonlinear relationships between the original features.
@@ -124,7 +124,7 @@ data = [['Red'], ['Blue'], ['Green'], ['Red']]
 encoder = OneHotEncoder()  
 
 # Apply one-hot encoding
-onehot_features = encoder.fit_transform(data).toarray()  
+onehot_features = encoder.fit_transform(data).toarray()
 ```
 
 The `OneHotEncoder` encodes categorical features as binary vectors, where each unique category becomes a separate binary feature.
@@ -142,7 +142,7 @@ data = ['Low', 'High', 'Medium', 'Low']
 encoder = LabelEncoder() 
 
  # Apply label encoding
-encoded_features = encoder.fit_transform(data) 
+encoded_features = encoder.fit_transform(data)
 ```
 
 The `LabelEncoder` assigns a numerical label to each category, preserving the order of categories.
@@ -160,7 +160,7 @@ data = pd.Series(['Apple', 'Banana', 'Apple', 'Orange', 'Banana'])
 frequency = data.value_counts(normalize=True)  
 
 # Replace categories with frequencies
-encoded_features = data.map(frequency)  
+encoded_features = data.map(frequency)
 ```
 
 The `value_counts` method computes the frequency of each category, and the map function replaces the categories with their corresponding frequencies.
@@ -198,7 +198,7 @@ data = ['I love dogs', 'I hate cats', 'Dogs are cute']
 vectorizer = CountVectorizer() 
 
 # Apply BoW transformation
-bow_features = vectorizer.fit_transform(data) 
+bow_features = vectorizer.fit_transform(data)
 ```
 
 The `CountVectorizer` converts text into a matrix of token counts, where each row represents a document, and each column represents a unique word in the vocabulary.
@@ -216,14 +216,14 @@ data = ['I love dogs', 'I hate cats', 'Dogs are cute']
 vectorizer = TfidfVectorizer()  
 
 # Apply TF-IDF transformation
-tfidf_features = vectorizer.fit_transform(data)  
+tfidf_features = vectorizer.fit_transform(data)
 ```
 
 The `TfidfVectorizer` computes TF-IDF weights for each word, where TF measures the word's frequency in a document, and IDF measures its rarity across the document collection.
 
 ### Word Embeddings
 
-Capturing Semantic RelationshipsWord embeddings represent words as dense vectors in a continuous vector space, capturing semantic relationships between words. Techniques like Word2Vec and GloVe learn representations based on the surrounding context of words, enabling the model to capture word similarities and analogies.
+Word embeddings represent words as dense vectors in a continuous vector space, capturing semantic relationships between words. Techniques like Word2Vec and GloVe learn representations based on the surrounding context of words, enabling the model to capture word similarities and analogies.
 
 ```python
 import gensim
@@ -235,7 +235,7 @@ data = [['I', 'love', 'dogs'], ['I', 'hate', 'cats'], ['Dogs', 'are', 'cute']]
 model = Word2Vec(data, min_count=1)  
 
 # Obtain the word embedding for 'dogs'
-word_embedding = model.wv['dogs']  
+word_embedding = model.wv['dogs']
 ```
 
 The `Word2Vec` model learns word embeddings based on the context of words in the provided data. Each word is represented as a dense vector, and we can access the word embeddings using the model's wv property.
