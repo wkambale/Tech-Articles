@@ -230,5 +230,3 @@ Machine Learning techniques provide a valuable tool for the detection and diagno
 Access the code snippets in a Google Colab notebook [**here**](https://colab.research.google.com/drive/1D78IygybTGZJ_MYxLDVZ2Yfv3cl_veKQ?usp=sharing) (MIT License).
 
 Access the dataset used in this article [here](https://drive.google.com/drive/folders/1BVCpse-Dfa3uyBGCiYUVNjGTBtITvwXH?usp=sharing) (MIT License). *Don't request access*, **Make A Copy.**
-
-### **%%\[buymecoffee\]**
