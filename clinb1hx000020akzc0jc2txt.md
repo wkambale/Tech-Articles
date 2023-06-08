@@ -221,7 +221,7 @@ rf_model.save('pcos_rf_model.h5')
 svm_model.save('pcos_svm_model.h5')
 ```
 
-## **Conclusion**
+# **Conclusion**
 
 Machine Learning techniques provide a valuable tool for the detection and diagnosis of Polycystic Ovary Syndrome (PCOS). By leveraging ML algorithms, we can analyze various factors and build predictive models that assist healthcare professionals in identifying PCOS in patients. This article outlined the step-by-step process of PCOS detection using ML and provided code snippets for data preprocessing, model training, and evaluation. Remember to adapt the code to your specific dataset and explore different ML algorithms to find the best approach for PCOS detection.
 
