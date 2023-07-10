@@ -170,3 +170,7 @@ Here we use the `read_csv` function from the `pandas` library to read data from 
 # Conclusion
 
 In the world of automation and integration, Python offers a plethora of tools and libraries that can come in handy. This tutorial delves into some of the essential aspects, such as automating file operations, web scraping, interacting with APIs, integrating databases, and creating automated reports. By utilizing these capabilities, you can save time, minimize errors, and streamline your workflows, making your tasks more efficient and productive. Take a look at the different Python libraries and examples mentioned here to unleash the full potential of automation and integration with Python.
+
+# Resources
+
+[Google Colab Notebook](https://colab.research.google.com/drive/1mbdRZsdzJzzpRprEvs_cTiIS6pDR8g_N?usp=sharing)
