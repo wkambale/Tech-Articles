@@ -5,7 +5,7 @@ seoDescription: "A beginner guide into the works of Pandas, an open-source data 
 datePublished: Wed May 03 2023 22:40:40 GMT+0000 (Coordinated Universal Time)
 cuid: clh8a7wt2000009mpaa4wc2zs
 slug: pandas-the-gateway-to-data-exploration-and-visualization
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689688905926/1c19e67b-8be0-49bc-803f-7127c974201d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689690139732/cd229050-cfef-4f04-b1b1-e973a20e9ef0.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676326246020/3893a7d2-433e-42da-bda8-20ac8b022f16.png
 tags: machine-learning, data-analysis, pandas
 
