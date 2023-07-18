@@ -5,7 +5,7 @@ seoDescription: "A beginner's guide and comparison of NumPy and JAX for scientif
 datePublished: Mon May 08 2023 17:57:39 GMT+0000 (Coordinated Universal Time)
 cuid: clhf5b7vk000909l84xyq0ch1
 slug: numpy-vs-jax
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683566053828/1c2af2e3-33f7-4c5f-9f7c-ab41b3193084.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689689495162/d36e2874-f175-431c-a370-292eeac2359a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683566155617/111383fd-19da-4df2-a018-095269b61e86.png
 tags: machine-learning, numpy, scientific-computing, jax
 
