@@ -5,7 +5,7 @@ seoDescription: "A beginner's guide to training machine learning models with SQL
 datePublished: Tue May 09 2023 14:12:55 GMT+0000 (Coordinated Universal Time)
 cuid: clhgcq1zs000409le6g0f561g
 slug: ml-in-sql
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683587261741/011d3b8e-9955-45ad-a21d-ae71cc4328a7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689689950698/2ff1a31e-4597-4f91-bd72-e4dc5f2e15f6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683641406972/0b8fda0e-146f-4311-bc2e-0b9404e0bd4d.png
 tags: machine-learning, databases, sql, bigquery
 
