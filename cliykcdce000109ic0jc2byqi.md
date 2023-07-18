@@ -5,7 +5,7 @@ seoDescription: "Pandas AI, the Python library that enhances Pandas with generat
 datePublished: Fri Jun 16 2023 12:45:47 GMT+0000 (Coordinated Universal Time)
 cuid: cliykcdce000109ic0jc2byqi
 slug: pandasai
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686870501613/f3aef01b-8403-4f41-86c3-f738a1e749ec.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689704553884/0698933f-1af7-4dfd-b702-59a60c492b26.png
 tags: data-analysis, pandas, generative-ai
 
 ---
