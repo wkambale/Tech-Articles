@@ -1,12 +1,11 @@
 ---
 title: "PCOS Detection Using Machine Learning"
 seoTitle: "PCOS Detection Using Machine Learning"
-seoDescription: "Building a Polycystic Ovary Syndrome (PCOS) detection model 
-using Machine Learning"
+seoDescription: "Building a Polycystic Ovary Syndrome (PCOS) detection model using Machine Learning"
 datePublished: Thu Jun 08 2023 15:39:55 GMT+0000 (Coordinated Universal Time)
 cuid: clinb1hx000020akzc0jc2txt
 slug: pcos-detection-using-ml
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686138466975/13670057-8127-40a9-80c4-893c0fefe116.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689701843231/4fe5ecea-59a1-41b0-be88-ff10d7895798.png
 tags: machine-learning, ml, disease
 
 ---
