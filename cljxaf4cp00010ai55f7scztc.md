@@ -5,7 +5,7 @@ seoDescription: "An introduction to automating tasks and integrating systems or 
 datePublished: Mon Jul 10 2023 19:59:55 GMT+0000 (Coordinated Universal Time)
 cuid: cljxaf4cp00010ai55f7scztc
 slug: automation-and-integration-using-python
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684536962751/1c697c7c-de63-45a0-8cb1-f8ae73ad8432.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689704942250/dad2f0a4-599b-41a0-8b03-3f0f426c4dcf.png
 tags: python, automation, pandas, integration, beautifulsoup
 
 ---
