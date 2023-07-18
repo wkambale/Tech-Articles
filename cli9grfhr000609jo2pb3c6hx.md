@@ -6,7 +6,6 @@ datePublished: Mon May 29 2023 23:11:17 GMT+0000 (Coordinated Universal Time)
 cuid: cli9grfhr000609jo2pb3c6hx
 slug: feature-extraction-in-ml
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689697953484/cd442115-3da1-4d63-9f4b-a148d07c470c.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1685395425494/b195c1b8-06f0-44af-9a5f-80a59a706815.png
 tags: data, machine-learning, features
 
 ---
