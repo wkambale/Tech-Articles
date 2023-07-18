@@ -1,11 +1,11 @@
 ---
-title: "A Guide to Machine Learning with TensorFlow"
+title: "Intro to Machine Learning with TensorFlow"
 seoTitle: "Machine Learning with TensorFlow"
 seoDescription: "Get to know the basics of machine learning and cover the basic steps to train a machine learning model using TensorFlow"
 datePublished: Mon Feb 06 2023 22:30:04 GMT+0000 (Coordinated Universal Time)
 cuid: cldtdz12m000209l6dkx6eiuv
 slug: machine-learning-with-tensorflow
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689688430101/80b7155c-23a7-421f-9bac-3bbd57833f6c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689690363015/4ff1184b-a5c2-4921-9841-5fdad8dc9d1e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675722549597/cb0f62b0-50c5-47eb-8440-954732cf858f.jpeg
 tags: machine-learning, tensorflow
 
