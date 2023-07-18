@@ -5,7 +5,7 @@ seoDescription: "A beginner guide to data visualization in Python using Matplotl
 datePublished: Fri May 19 2023 22:08:32 GMT+0000 (Coordinated Universal Time)
 cuid: clhv4482d00000ammcki7b2dt
 slug: matplotlib-and-seaborn
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684165890404/5c50fcb6-6ed4-4489-8b41-3b1d9fd4c9d8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689691031785/a5f385d1-d0d4-40e2-9c4c-76af2171c028.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684165909668/cdbc68c4-4864-434a-8b2e-49bb98cbdd75.png
 tags: data-analysis, seaborn, matplotlib, data-visualisation-1
 
