@@ -5,8 +5,7 @@ seoDescription: "A comprehensive comparison between TensorFlow and FLAX deep lea
 datePublished: Mon Jun 12 2023 19:47:11 GMT+0000 (Coordinated Universal Time)
 cuid: clit9mw8n00000al3fnacc10y
 slug: tensorflow-v-flax
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686598692495/02c805e8-94cb-42a2-b17a-d1b25dd35a38.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686598724689/9e617cc9-3855-4945-aca8-0f2c9aa15e56.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689702149799/7bcf2b84-436d-427f-9d53-29d1ef874f31.png
 tags: machine-learning, tensorflow, deep-learning, flax
 
 ---
