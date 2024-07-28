@@ -1,6 +1,6 @@
 ---
 title: "Implementing Advanced Model Architecture with TensorFlow - Part I"
-seoTitle: "Advanced Model Architecture with TensorFlow - Part "
+seoTitle: "Advanced Model Architecture with TensorFlow - Part I"
 seoDescription: "A deep dive into advanced model architecture with TensorFlow"
 datePublished: Sun Jul 28 2024 08:19:41 GMT+0000 (Coordinated Universal Time)
 cuid: clz5ahpzi000609iba7d48bae
