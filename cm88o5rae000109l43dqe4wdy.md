@@ -41,19 +41,14 @@ To ensure that our AI summits and conferences are truly impactful, organizers sh
 
 * **Prioritize Hands-On Workshops** – Every AI conference should include code labs where participants can build and deploy AI models in real time. For example, workshops on fine-tuning LLMs, training custom vision models, or implementing AI in cloud environments should be staple sessions.
     
-
 * **Feature Technical Speakers** – Rather than filling panels with corporate executives, AI summits should prioritize experts with hands-on experience in AI research and development. This means bringing in data scientists, machine learning engineers, and AI practitioners who can demonstrate real-world applications.
     
-
 * **Incorporate Hackathons and AI Challenges** – Practical AI challenges, such as hackathons, Kaggle-style competitions, or live coding challenges, should be an integral part of any AI summit.
     
-
 * **Encourage Open-Source Contributions** – Conferences should foster contributions to AI open-source projects, enabling attendees to leave with more than just theoretical knowledge.
     
-
 * **Partner with Developer Communities** – Corporate entities should work with developer communities to deliver the hands-on approach to their summits. These communities have the target audience and the experience in organizing these events.
     
-
 * **Develop Local AI Talent** – AI conferences should facilitate mentorship programs that connect experienced AI practitioners with budding developers to ensure continuous learning beyond the event itself.
     
 
@@ -64,3 +59,7 @@ If we are serious about competing in the AI race, we must radically rethink the 
 Uganda’s developer community has shown immense potential, but this potential must be nurtured with the right kind of engagement. Technical summits, practical workshops, and real-world AI applications should be our focus. Anything less than this risks turning our AI discourse into an empty parade of slogans and missed opportunities.
 
 We must choose: do we want to be passive spectators in the AI revolution, or do we want to be active builders shaping the future? The answer lies in how we structure our conferences today.
+
+*…*
+
+*Originally published in* ***The Independent - Uganda*** [*here*](https://www.independent.co.ug/non-technical-summits-and-conferences-not-impactful-in-the-ai-race/)*.*
