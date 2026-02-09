@@ -488,3 +488,9 @@ We've now covered the core JAX transforms: `jit` for speed, `vmap` for batching,
 But writing raw JAX for complex models gets tedious. Next week, we'll introduce **Flax NNX';** a neural network library that gives you PyTorch-style ergonomics while keeping all the power of JAX transformations.
 
 We'll build our first real neural network: a CNN for image classification.
+
+## Resources
+
+Automatic Vectorization
+
+[JAX AI Stack Guide](https://jaxstack.ai/)
